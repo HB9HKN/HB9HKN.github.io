@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Explore the collection of stories below:
 
-- [Story 1](https://github.com/HB9HKN/HB9HKN.github.io/blob/main/CW_Training/CW_Stories/Agatha_Christie_The_Mysterious_Affair_at_Styles/The_Mysterious_Affair_at_Styles.md)
+- [Story 1](https://github.com/HB9HKN/HB9HKN.github.io/blob/main/CW_Training/CW_Stories/Agatha_Christie_The_Mysterious_Affair_at_Styles/)
 - [Story 2](CWtraining/Stories/story2.md)
 - [Story 3](CWtraining/Stories/story3.md)
 - [Story 4](CWtraining/Stories/story4.md)
